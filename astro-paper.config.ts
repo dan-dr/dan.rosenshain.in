@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://dan.rosenshain.in/",
+    url: "https://dan.rosensha.in/",
     title: "Dan Rosenshain",
     description: "Notes on reverse engineering, devops, Docker, the terminal, and sending LLMs down rabbit holes.",
     author: "Dan Rosenshain",
-    profile: "https://dan.rosenshain.in/",
+    profile: "https://dan.rosensha.in/",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "UTC",
@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/dan-dr/dan.rosenshain.in/edit/main/",
+      url: "https://github.com/dan-dr/dan.rosensha.in/edit/main/",
     },
     search: "pagefind",
   },
